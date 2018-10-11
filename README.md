@@ -6,6 +6,8 @@ The focus is on the movement of individual vehicles.
 
 The initial users will be HSL customer service, traffic reimbursement with public transport operators and traffic planners.
 
+Development deployment: https://dev-transitlog.hsldev.com/
+
 ## Roadmap
 
 The project roadmap is currently written as epics in [the issue list of the UI repository](https://github.com/HSLdevcom/transitlog-ui/issues).
