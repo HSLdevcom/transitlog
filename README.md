@@ -25,7 +25,7 @@ The project is quite young and in active development.
 
 ## Public review session
 
-The next review session is on 2019-03-26 from 12:00 to 12:30 UTC.
+The next review session is on 2019-05-28 from 14:00 to 12:30 UTC.
 Please let us know beforehand and name your avatar if you join us remotely at https://meet.jit.si/transitlog .
 
 ## UI project maintainer skills
