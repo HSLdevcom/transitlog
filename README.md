@@ -6,7 +6,7 @@ The focus is on the movement of individual vehicles.
 
 The initial users will be HSL customer service, traffic reimbursement with public transport operators and traffic planners.
 
-Development deployment: https://dev-transitlog.hsldev.com/
+
 
 ## Roadmap
 
@@ -21,12 +21,11 @@ The project roadmap is currently written as epics in [the issue list of the UI r
 
 ## Status
 
-The project is quite young and in active development.
+The project now in production as HSL deployment "Reittiloki" at https://reittiloki.hsl.fi/
 
 ## Public review session
 
-The next review session is on 2019-05-28 from 14:00 to 12:30 UTC.
-Please let us know beforehand and name your avatar if you join us remotely at https://meet.jit.si/transitlog .
+-
 
 ## UI project maintainer skills
 
